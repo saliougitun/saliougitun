@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saliougitun
+- 👋 Hi, I’m @saliou
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning laravel web framework
 - 💞️ I’m looking to collaborate on a project
